@@ -1,0 +1,23 @@
+{
+  "name": "getkcal",
+  "version": "1.0.0",
+  "description": "A calories calculator which analysis how much calories do you need to be health",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xFelipeRR/getkcal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xFelipeRR/getkcal/issues"
+  },
+  "homepage": "https://github.com/xFelipeRR/getkcal#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
