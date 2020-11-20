@@ -101,3 +101,9 @@ header {
 .result-content ul li strong {
   color: #FF7373;
 }
+
+@media(max-width: 500px){
+  .content{
+    padding: 0 30px;
+  }
+}
